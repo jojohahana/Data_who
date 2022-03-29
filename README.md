@@ -4,6 +4,7 @@ Personal Documentation Learning Analysis & Exploration Data from [DQLab](https:/
 First time trial using Jupyter Notebook for Analysis Data WHO 
 - Source Data klik [here](https://prod-edxapp.edx-cdn.org/assets/courseware/v1/ccdc87b80d92a9c24de2f04daec5bb58/asset-v1:MITx+15.071x+3T2019+type@asset+block/WHO.csv)
 - Detail Variabel : Country, Region, Population, Under15, Over60, FertilityRate, LifeExpectancy, ChildMortality, CelullarSubribers, LiteracyRate, GNI, PrimarySchoolMale, and PrimarySchoolFemale
+- Embedding PowerBI Reports read [this](https://www.sqlshack.com/embedding-power-bi-reports-in-jupyter-notebooks/)
 
 # Python Visualization
 Install matplotlib = pip install matplotlib
